@@ -1,0 +1,1 @@
+automatically use xgboost regressor and classifier for prediciton  
